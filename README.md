@@ -1,8 +1,7 @@
 ### Hi there 👋
-
+<img src="https://komarev.com/ghpvc/?username=arfatbk" alt="arfatbk" /><br/>
 I am Software Architect
-
-Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<br /><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Java Developer 
 
 #### 📫 How to reach me:
 
