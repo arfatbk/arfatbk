@@ -19,4 +19,4 @@
     - Email: [arfatbk@gmail.com](mailto:arfatbk@gmail.com)
 
 
-![Arfat's github stats](https://github-readme-stats.vercel.app/api?username=arfatbk&show_icons=true&hide_border=true)
+![Arfat's github stats](https://github-readme-stats.vercel.app/api?username=arfatbk&show_icons=true&hide_border=true&theme=nightowl)
